@@ -1,0 +1,15 @@
+.card {
+  border-color: var(--bs-primary);
+}
+
+.card-header, .btn, .btn:hover {
+  color: var(--bs-white);
+}
+
+a.link-dark {
+  color: var(--bs-gray-dark);
+}
+
+a.link-dark:hover, a.link-dark:focus {
+  color: var(--bs-primary);
+}
